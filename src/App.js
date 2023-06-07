@@ -15,13 +15,4 @@ function App(props) {
   );
 }
 
-{
-  /* <Navbar />; */
-}
-{
-  /* <AboutMovie /> */
-}
-{
-  /* <div className="movie_Container">{dataComp}</div>; */
-}
 export default App;

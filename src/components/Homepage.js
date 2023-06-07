@@ -4,15 +4,15 @@ import data from "./data";
 import AboutMovie from "./AboutMovie";
 
 const Homepage = () => {
-  // console.log(genres1);
   const dataComp = data.map((data) => {
     return (
       <AboutMovie
-        key={data.id}
+        key={data.show.id}
         name={data.show.name}
         ratings={data.show.rating.average}
         language={data.show.language}
         imgUrl={data.show.image.original}
+        dataItems={data}
       />
     );
   });

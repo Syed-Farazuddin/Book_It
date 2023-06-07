@@ -16,9 +16,9 @@ const AboutMovie = (props) => {
       </div>
       <div className="btn">
         <button
+          type="submit"
           onClick={() => {
-            navigate("/book");
-            console.log(props);
+            navigate("/book", { state: { data: props.dataItems } });
           }}
         >
           Read More

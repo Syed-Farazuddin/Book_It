@@ -20,6 +20,8 @@ body {
   background: var(--bg-black-100);
 }
 
+/* Navbar Component Styling  */
+
 .nav {
   display: flex;
   justify-content: space-between;
@@ -54,6 +56,9 @@ ul li {
   color: var(--text-black-700);
   font-family: "Poppins", sans-serif;
 }
+
+/* About Movie Component  */
+
 .movie_Container {
   flex: 1 1 100%;
   max-width: 100%;
@@ -69,7 +74,6 @@ ul li {
 }
 .movie {
   margin-top: 1.5rem;
-  /* height: 200px; */
   display: flex;
   flex-direction: column;
   flex: 0 0 18%;
@@ -117,6 +121,9 @@ ul li {
   background: black;
   color: #fdf9ff;
 }
+
+/* Book Movie Component  */
+
 .bookMovie_container {
   padding: 2rem 4rem;
   margin-top: 40px;
@@ -131,9 +138,6 @@ ul li {
   max-width: 100%;
 }
 
-.bookMovie_container .summary {
-  float: right;
-}
 .bookMovie_container .movie_content .movie_name {
   color: var(--text-black-900);
   font-size: 20px;
@@ -142,6 +146,7 @@ ul li {
 
 .bookMovie_container .movie_content .summary h3 {
   margin: 20px 0;
+  margin-top: 0;
   color: var(--text-black-900);
 }
 .bookMovie_container .movie_content .summary p {
@@ -158,6 +163,7 @@ ul li {
   border-radius: 5px;
   margin-top: 20px;
   position: absolute;
+  font-size: 20px;
 }
 .book_btn button:hover {
   transform: scale(1.07);
@@ -174,4 +180,28 @@ ul li {
   margin-right: 4px;
   display: flex;
   color: #ec1839;
+}
+.bookMovie_container .movie_content .genres {
+  width: 100px;
+  padding: 0px 20px;
+  padding-left: 0;
+  margin: 3px 0;
+  display: flex;
+  /* border: 1px solid red; */
+}
+.bookMovie_container .movie_content .genres .genres_items:hover {
+  background: var(--bg-black-900);
+  border-radius: 10px;
+}
+
+.genres_items {
+  /* border: 1px solid rebeccapurple; */
+  padding: 0 10px;
+  /* padding: 10px; */
+}
+
+.genres_items ul li {
+  list-style-type: disc;
+  /* display: inline-block; */
+  /* display: flex; */
 }

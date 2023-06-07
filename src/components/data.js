@@ -37,7 +37,7 @@ const data = [
           "https://static.tvmaze.com/uploads/images/original_untouched/425/1064746.jpg",
       },
       summary:
-        "<p>When a rising high school football player from South Central L.A. is recruited to play for Beverly Hills High, the wins, losses and struggles of two families from vastly different worlds — Compton and Beverly Hills — begin to collide. Inspired by the life of pro football player Spencer Paysinger.</p>",
+        "When a rising high school football player from South Central L.A. is recruited to play for Beverly Hills High, the wins, losses and struggles of two families from vastly different worlds — Compton and Beverly Hills — begin to collide. Inspired by the life of pro football player Spencer Paysinger.",
       updated: 1684254496,
       _links: {
         self: { href: "https://api.tvmaze.com/shows/34653" },
@@ -83,7 +83,7 @@ const data = [
           "https://static.tvmaze.com/uploads/images/original_untouched/413/1034988.jpg",
       },
       summary:
-        "<p><b>All Rise</b> is a courthouse drama that follows the chaotic, hopeful and sometimes absurd lives of its judges, prosecutors and public defenders, as they work with bailiffs, clerks and cops to get justice for the people of Los Angeles amidst a flawed legal process. Among them is newly appointed Judge Lola Carmichael, a highly regarded and impressive deputy district attorney who doesn't intend to sit back on the bench in her new role, but instead leans in, immediately pushing the boundaries and challenging the expectations of what a judge can be.</p>",
+        "All Rise is a courthouse drama that follows the chaotic, hopeful and sometimes absurd lives of its judges, prosecutors and public defenders, as they work with bailiffs, clerks and cops to get justice for the people of Los Angeles amidst a flawed legal process. Among them is newly appointed Judge Lola Carmichael, a highly regarded and impressive deputy district attorney who doesn't intend to sit back on the bench in her new role, but instead leans in, immediately pushing the boundaries and challenging the expectations of what a judge can be.",
       updated: 1684734120,
       _links: {
         self: { href: "https://api.tvmaze.com/shows/42181" },
@@ -129,7 +129,7 @@ const data = [
           "https://static.tvmaze.com/uploads/images/original_untouched/155/388118.jpg",
       },
       summary:
-        '<p>After their graduation, the class of 2018 gathers to celebrate their last night together at their local rec center for "Grad Night," an all-night party with dancing, karaoke, games—and a rule that no one can come in or out for twelve full hours. For most the night signals their last chance to accomplish some high school dream: Nerdy Cody wants to make his mark on the school, and popular Roni wants to finally lose her virginity to her boyfriend Oz. Valedictorian Melinda plans to sneakily sell alcohol to her classmates at the party to pay her tuition, and every-girl Deanna gets ready to finally admit her feelings for her best friend Fig, who only has eyes for Roni. As the night goes on, the kids\' quests overlap, intertwine, and -in some cases- implode. What would you do with your last night in high school?</p>',
+        'After their graduation, the class of 2018 gathers to celebrate their last night together at their local rec center for "Grad Night," an all-night party with dancing, karaoke, games—and a rule that no one can come in or out for twelve full hours. For most the night signals their last chance to accomplish some high school dream: Nerdy Cody wants to make his mark on the school, and popular Roni wants to finally lose her virginity to her boyfriend Oz. Valedictorian Melinda plans to sneakily sell alcohol to her classmates at the party to pay her tuition, and every-girl Deanna gets ready to finally admit her feelings for her best friend Fig, who only has eyes for Roni. As the night goes on, the kids\' quests overlap, intertwine, and -in some cases- implode. What would you do with your last night in high school?',
       updated: 1651425957,
       _links: {
         self: { href: "https://api.tvmaze.com/shows/31428" },
@@ -175,7 +175,7 @@ const data = [
           "https://static.tvmaze.com/uploads/images/original_untouched/24/60454.jpg",
       },
       summary:
-        "<p><b>All That</b> is an American live-action, sketch comedy-variety show that aired on the Nickelodeon cable television network featuring short comedic sketches and weekly musical guests. ork.</p>",
+        "All That is an American live-action, sketch comedy-variety show that aired on the Nickelodeon cable television network featuring short comedic sketches and weekly musical guests. ork.",
       updated: 1677938042,
       _links: {
         self: { href: "https://api.tvmaze.com/shows/6305" },
@@ -221,7 +221,7 @@ const data = [
           "https://static.tvmaze.com/uploads/images/original_untouched/200/501970.jpg",
       },
       summary:
-        "<p>The new kids of comedy bring the funny as <b>All That</b>, America's #1 kid's sketch comedy show, returns with a new cast and a few familiar faces. From Executive Producers Kenan Thompson and Kel Mitchell.</p>",
+        "The new kids of comedy bring the funny as All That, America's #1 kid's sketch comedy show, returns with a new cast and a few familiar faces. From Executive Producers Kenan Thompson and Kel Mitchell.",
       updated: 1666638259,
       _links: {
         self: { href: "https://api.tvmaze.com/shows/42312" },
@@ -267,7 +267,7 @@ const data = [
           "https://static.tvmaze.com/uploads/images/original_untouched/408/1022051.jpg",
       },
       summary:
-        '<p><b>All Saints</b> follows the lives of the staff at All Saints Western General Hospital. Until its closure in 2004, the show primarily focused on the staff in Ward 17. Known as the "garbage ward" as it took all the overflow from the other wards.</p>',
+        'All Saints follows the lives of the staff at All Saints Western General Hospital. Until its closure in 2004, the show primarily focused on the staff in Ward 17. Known as the "garbage ward" as it took all the overflow from the other wards.',
       updated: 1685322925,
       _links: {
         self: { href: "https://api.tvmaze.com/shows/9526" },
@@ -313,7 +313,7 @@ const data = [
           "https://static.tvmaze.com/uploads/images/original_untouched/75/189678.jpg",
       },
       summary:
-        "<p><b>All Access</b> is an exclusive Showtime TV documentary series of 30-minute specials that chronicles the lives of athletes in unarmed combat sports.</p>",
+        "All Access is an exclusive Showtime TV documentary series of 30-minute specials that chronicles the lives of athletes in unarmed combat sports.",
       updated: 1680915327,
       _links: {
         self: { href: "https://api.tvmaze.com/shows/8600" },
@@ -359,7 +359,7 @@ const data = [
           "https://static.tvmaze.com/uploads/images/original_untouched/406/1015647.jpg",
       },
       summary:
-        "<p>As a kid, all Kim In Ha ever did was follow his uncle around and help him cheat in gambling. As a high school student, he hung out with his friends at the basement of a theater. As Kim In Ha gets to know Choi Jeong Won, a model student and also the son of a very rich family, In Ha tries to tempt him into doing mischevious deeds.</p>",
+        "As a kid, all Kim In Ha ever did was follow his uncle around and help him cheat in gambling. As a high school student, he hung out with his friends at the basement of a theater. As Kim In Ha gets to know Choi Jeong Won, a model student and also the son of a very rich family, In Ha tries to tempt him into doing mischevious deeds.",
       updated: 1650824317,
       _links: {
         self: { href: "https://api.tvmaze.com/shows/21453" },
@@ -401,7 +401,7 @@ const data = [
           "https://static.tvmaze.com/uploads/images/original_untouched/124/310674.jpg",
       },
       summary:
-        "<p>Carlos finds himself unemployed, broke, and in debt. When he finally manages to bring home a woman for a one-night stand, everything gets even worse.</p>",
+        "Carlos finds himself unemployed, broke, and in debt. When he finally manages to bring home a woman for a one-night stand, everything gets even worse.",
       updated: 1653823870,
       _links: {
         self: { href: "https://api.tvmaze.com/shows/31147" },
@@ -447,7 +447,7 @@ const data = [
           "https://static.tvmaze.com/uploads/images/original_untouched/128/321026.jpg",
       },
       summary:
-        "<p>In a haunted Boston hospital called <b>All Souls </b>Hospital, Dr. Mitchell Grace's tries to find out the truth about the hauntings that dated as far back as the civil war. All Souls Hospital's lower levels used to be a mental asylum, and are haunted by ghosts of dead patients. The ghosts notably include Lazarus, an orderly who has been benevolently haunting the hospital since his days working with Dr. Ambrosius after the Civil War.</p>",
+        "In a haunted Boston hospital called All Souls Hospital, Dr. Mitchell Grace's tries to find out the truth about the hauntings that dated as far back as the civil war. All Souls Hospital's lower levels used to be a mental asylum, and are haunted by ghosts of dead patients. The ghosts notably include Lazarus, an orderly who has been benevolently haunting the hospital since his days working with Dr. Ambrosius after the Civil War.",
       updated: 1652621440,
       _links: {
         self: { href: "https://api.tvmaze.com/shows/32110" },
