@@ -7,7 +7,7 @@ const Navbar = () => {
       <div className="nav">
         <div className="title">
           <div className="icon">
-            <BiMoviePlay />
+            <BiMoviePlay className="movie_icon" />
           </div>
           <h1>Book It</h1>
         </div>
@@ -17,12 +17,12 @@ const Navbar = () => {
               <a href="#home">Home</a>
             </li>
             <li>
-              <a href="#about">About</a>
-            </li>
-            <li>
               <a href="#movies">Movies</a>
             </li>
           </ul>
+          <div className="menu_icon" id="menu">
+            <i className="fa-solid fa-bars"></i>
+          </div>
         </div>
       </div>
     </div>
